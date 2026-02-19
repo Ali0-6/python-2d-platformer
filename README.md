@@ -1,6 +1,7 @@
 # 🎮 Python 2D Platformer Game
 
 A fully functional 2D platformer game built in Python using Pygame. This project demonstrates structured software engineering practice, from initial design to iterative testing and refinement.
+140 Page Documentation - 7022_H446_Coursework_Report_AliAliMostafa.pdf
 
 ## 🧑‍💻 Technologies Used
 - **Python**
