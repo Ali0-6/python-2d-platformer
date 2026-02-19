@@ -1,6 +1,3 @@
-# python-2d-platformer
-A fully functional 2D platformer game developed in Python with Pygame, featuring collision detection, physics, sprite management, and comprehensive testing documentation.
-
 # Python 2D Platformer Game
 
 A fully functional 2D platformer game built in Python using Pygame. This project demonstrates structured software engineering practice, from initial design to iterative testing and refinement.
